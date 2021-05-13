@@ -10,6 +10,12 @@ const routes: Array<RouteConfig> = [
     name: "Home",
     component: Home,
   },
+  {
+    path: "/privacy",
+    name: "Privacy",
+    component: () =>
+    import("@/views/Privacy.vue"),
+  },
 ];
 
 const router = new VueRouter({
