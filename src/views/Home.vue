@@ -58,9 +58,6 @@
           fingerprinters like
           <span class="browsers">
             <a href="https://firefox.com" class="firefox">Mozilla Firefox, </a>
-            <a href="https://www.microsoft.com/en-us/edge?r=1" class="edge"
-              >Microsoft Edge,
-            </a>
             <a href="https://dothq.co" class="dot">Dot, </a>
             <a href="https://brave.com" class="brave">Brave, </a> (not
             recommended due to developing privacy issues) or
